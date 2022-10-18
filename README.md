@@ -1,3 +1,6 @@
+# Anh deploy hiihdee unshuul!
+$ npm install gh-pages --save-dev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
