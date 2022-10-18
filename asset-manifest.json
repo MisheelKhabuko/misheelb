@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/misheelb/static/css/main.abd64e84.css",
+    "main.js": "/misheelb/static/js/main.b569299a.js",
+    "static/js/787.a03ae849.chunk.js": "/misheelb/static/js/787.a03ae849.chunk.js",
+    "index.html": "/misheelb/index.html",
+    "main.abd64e84.css.map": "/misheelb/static/css/main.abd64e84.css.map",
+    "main.b569299a.js.map": "/misheelb/static/js/main.b569299a.js.map",
+    "787.a03ae849.chunk.js.map": "/misheelb/static/js/787.a03ae849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b569299a.js"
+  ]
+}
